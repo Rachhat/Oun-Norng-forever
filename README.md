@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29276854/README.md)
 Open index.html in your browser.
 
 This version already includes:
