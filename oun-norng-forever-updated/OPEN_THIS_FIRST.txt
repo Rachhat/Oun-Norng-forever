@@ -1,6 +1,0 @@
-1. Extract this ZIP.
-2. Open the folder.
-3. Double-click index.html.
-4. Keep the assets folder in the same folder as index.html.
-
-This package already contains the photos and video.
